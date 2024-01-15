@@ -1,5 +1,6 @@
 # End-to-End serverless AWS MLOps architecture: Predicting Customer Churn with SageMaker, CodeCommit, Lambda, API Gateway, and SageMaker Autoscaling
 https://www.linkedin.com/pulse/end-to-end-serverless-aws-mlops-architecture-customer-shradha-agarwal-jejyc
+
 This project utilizes a combination of AWS services to create a comprehensive solution for predicting customer churn using a dataset from a mobile phone operator. The key components of this project include:
 
 - **Amazon SageMaker**: Used for data preprocessing, model training and deployment.
